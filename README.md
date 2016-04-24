@@ -34,8 +34,7 @@ JKA	24/4/2016	2.0.6	Fixed the message-id's to comply with RFC
 
 
 
-Simple autoresponder for qmail.
-
+Simple autoresponder for qmail:
 ==============================================
 
 Mail is sent to help@my-company.com. An automatically generated response
