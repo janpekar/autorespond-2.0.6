@@ -262,7 +262,7 @@ char msg_buffer[256];
 	dt = gmtime((long *)&msgwhen);
 	/*start outputting to qmail-queue
 	  date is in 822 format
-	  message-id could be computed a little better*/
+	 */
 	fprintf(fdm,"Date: %u %s %u %02u:%02u:%02u -0000\nMessage-ID: <%lu.%u.autorespond@%s>\n"
 		,dt->tm_mday,montab[dt->tm_mon],dt->tm_year+1900,dt->tm_hour,dt->tm_min,dt->tm_sec,msgwhen,getpid(),getenv("LOCAL") );
 
