@@ -1,6 +1,4 @@
-# autorespond-2.0.6
-
-autorespond
+#autorespond
 Copyright 1998 Eric Huss
 Copyright 2000 Matthias Henze  matthias@mhcsoftware.de
 Copyright 2001 Brad Dameron <bdameron@tscnet.com>
