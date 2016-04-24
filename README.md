@@ -1,8 +1,8 @@
-#autorespond
-Copyright 1998 Eric Huss  
-Copyright 2000 Matthias Henze  matthias@mhcsoftware.de  
+#autorespond-2.0.6
+Copyright 1998 Eric Huss <e-huss@netmeridian.com>  
+Copyright 2000 Matthias Henze <matthias@mhcsoftware.de>  
 Copyright 2001 Brad Dameron <bdameron@tscnet.com>  
-  
+
 EH 02/13/98 - First release.  
 EH 02/14/98 - Fixed file descriptor bug (wouldn't work on BSD/Linux)  
 MH  07/2000	1.1.0	added message handling  
@@ -31,9 +31,7 @@ JKA	24/4/2016	2.0.6	Fixed the message-id's to comply with RFC
 			standard to prevent from getting catched in spam  
 			filters due to .blah in message-id.  
   
-Source at: https://github.com/w0lfis/autorespond-2.0.6  
-  
-  
+
 Simple autoresponder for qmail.
 
 ==============================================
