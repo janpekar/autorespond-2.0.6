@@ -12,7 +12,7 @@ MH  07/2000 1.1.0a  changed back to 1.0.0 compatibility
 MH  08/2000 1.1.0b  if DEFAUTL_FROM is set to $ the addres in the To:  
       header will be used as From: of the autoreply.  
 MH  03/2001     1.1.0b  switched * to + in DEFAULT_FROM syntax
-      fixed from header
+      fixed from header  
 BD  06/12/2001  2.0.0   Removed some of Matthias's additional command lines  
       and cleaned up some code.  
 BD  11/24/2001  2.0.1   Removed binary and added a Makefile  
@@ -146,8 +146,7 @@ Notes
 
 24/4/2016
 - Joakim Karlsson <joakim@roffe.nu> Patched message-id's to comply
-  with RFC for message-id's.
-  https://en.wikipedia.org/wiki/Message-ID
-  http://www.rfc-base.org/txt/rfc-2822.txt
-  http://www.rfc-base.org/txt/rfc-2392.txt
-
+  with RFC for message-id's.  
+  https://en.wikipedia.org/wiki/Message-ID  
+  http://www.rfc-base.org/txt/rfc-2822.txt  
+  http://www.rfc-base.org/txt/rfc-2392.txt  
