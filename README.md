@@ -23,14 +23,10 @@ KJ  08/24/2003  2.0.4   From Woody Security team
   * Fix buffer overflow with EXT and HOST environment variables
     (CAN-2003-0654)
 
-JK  09/18/2003  2.0.5 fixed invalid exit codes in several places that  
-      cause qmail to bounce messages wrongly.  
-      Thanks to Flavio Curti fcu-autoresp@no-way.org for  
-      identifying further invalid exit situations.
+JK  09/18/2003  2.0.5 fixed invalid exit codes in several places that cause qmail to bounce messages wrongly.  
+Thanks to Flavio Curti fcu-autoresp@no-way.org for identifying further invalid exit situations.
 
-JKA 24/4/2016 2.0.6 Fixed the message-id's to comply with RFC  
-      to prevent from getting catched in spam filters  
-      due to .blah in message-id.
+JKA 24/4/2016 2.0.6 Fixed the message-id's to comply with RFC to prevent from getting catched in spam filters due to .blah in message-id.
 
 
 
